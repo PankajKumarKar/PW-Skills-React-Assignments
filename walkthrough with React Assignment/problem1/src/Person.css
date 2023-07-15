@@ -1,0 +1,10 @@
+.Person {
+  border: 4px solid #808080;
+  padding: 2rem;
+  border-radius: 1rem;
+  background-color: #ff6347;
+}
+.Person p {
+  font-size: 2rem;
+  font-weight: 600;
+}
